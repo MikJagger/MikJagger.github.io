@@ -104,22 +104,13 @@ en: &DEFAULT_EN
 
   team:
     title: "More about me"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: 
-        role: 
-        image: 
-        social:
-          - url:
-            icon: 
-          - url: 
-            icon: 
-          - url:
-            icon: 
       - name: "Mikkie van Falier"
-        role: "Information Securoty Professional"
+        role: "Information Security Professional"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -129,15 +120,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: 
-        role: 
-        image: 
-        social:
-          - url:
-            icon: 
-          - url: 
-            icon: 
-          - url:
-            icon: 
+    
      
 
   contact:
