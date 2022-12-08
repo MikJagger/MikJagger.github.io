@@ -11,24 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: I AM TESTTEST
+    title: I AM MIKKIE
     text: Information Security Professional
-    button: Tell Me More
+    button: More about me
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "More about me"
+    text: "IT-security"
+    #section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Guidance"
+        desc: "Trends in threats and controls to manage security risks"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Auditing"
+        desc: "Determine maturity and effectiveness of IT-security controls and frameworks"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Implementing"
+        desc: "Implement technical & organizational IT-security controls"
         icon: fab fa-markdown
 
   portfolio:
