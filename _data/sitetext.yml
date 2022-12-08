@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: I AM MIKKIE
     text: Information Security Professional
     button: More about me
-    buttonlink: "#services"
+    buttonlink: "#team"
 
   services:
     title: "IT-security"
