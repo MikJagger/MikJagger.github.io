@@ -108,8 +108,18 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: 
+        role: 
+        image: 
+        social:
+          - url:
+            icon: 
+          - url: 
+            icon: 
+          - url:
+            icon: 
+      - name: "Mikkie van Falier"
+        role: "Information Securoty Professional"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -118,6 +128,16 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: 
+        role: 
+        image: 
+        social:
+          - url:
+            icon: 
+          - url: 
+            icon: 
+          - url:
+            icon: 
      
 
   contact:
