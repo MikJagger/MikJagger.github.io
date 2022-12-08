@@ -17,9 +17,9 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "More about me"
-    text: "IT-security"
-    #section: services
+    title: "IT-security"
+    #text: "IT-security"
+    section: services
     list:
       - title: "Guidance"
         desc: "Trends in threats and controls to manage security risks"
@@ -69,13 +69,13 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
+    title: "About"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
   clients:
-    section: clients
+    section: Happy clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
