@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Intro"
+    - title: "Skills"
       section: services
     - title: "Experience"
       section: portfolio
