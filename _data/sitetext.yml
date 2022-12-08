@@ -109,6 +109,8 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: 
+        image: assets/img/team/2.jpg
+     
       - name: "Mikkie van Falier"
         role: "Information Security Professional"
         image: assets/img/team/2.jpg
@@ -120,6 +122,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: 
+        image: assets/img/team/2.jpg
     
      
 
