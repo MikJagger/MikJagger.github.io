@@ -87,7 +87,7 @@ en: &DEFAULT_EN
   clients:
     section: Happy clients
     max-height: 100px
-    horizontal-scrolling: "yes"
+    horizontal-scrolling: "no"
     list:
       - title: "Microsoft Cloud"
         url: https://github.com/raviriley/agency-jekyll-theme
