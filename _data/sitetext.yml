@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-road #find more at https://fontawesome.com/icons #fas fa-shopping-cart
       - title: "Auditing"
         desc: "Determine maturity and effectiveness of IT-security controls and frameworks by auditing information technology"
-        icon: fas fa-shield-check
+        icon: fas fa-list
       - title: "Implementing"
         desc: "Implement controls to achieve higher security resilience"
-        icon: fas fa-bullseye-arrow
+        icon: fas fa-check
 
   portfolio:
     title: "Experience"
