@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Guidance"
         desc: "Advisory and guidance on trends and developments of security threats and controls"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-road #find more at https://fontawesome.com/icons
       - title: "Auditing"
         desc: "Determine maturity and effectiveness of IT-security controls and frameworks by auditing information technology"
-        icon: fas fa-laptop
+        icon: fa-solid fa-shield-check
       - title: "Implementing"
         desc: "Implement controls to achieve higher security resilience"
-        icon: fab fa-markdown
+        icon: fa-sharp fa-solid fa-bullseye-arrow
 
   portfolio:
     title: "Experience"
@@ -80,8 +80,8 @@ en: &DEFAULT_EN
    
   about:
     title: "Intro"
-    text: "My intro"
-    body: "I am a highly skilled IT security professional with a passion for risk management. I am known for my expertise in this field, as well as my enthusiasm and dedication to achieving results. I am a trusted and reliable partner who is always goal-oriented and focused on delivering the best possible outcomes for my clients. I am excited to share more about my skills and experience!"
+    text: ""
+    body: "I am a highly skilled IT security professional with a passion for protecting organizations on cybersecurity threats. I am known for my expertise in this field, as well as my enthusiasm and dedication to achieving results. I am a trusted and reliable partner who is always goal-oriented and focused on delivering the best possible outcomes for my clients. I am excited to share more about my skills and experience!"
     section: about
 
   clients:
@@ -105,7 +105,7 @@ en: &DEFAULT_EN
   team:
     title: "More about me"
     text: ""
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 
     section: team
     people:
       - name: 
