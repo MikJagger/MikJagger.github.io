@@ -144,7 +144,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-	    - url: https://twitter.com/mvanfalier
+      - url: https://twitter.com/mvanfalier
         icon: "fab fa-twitter"
       - url: https://www.linkedin.com/in/mikkie-van-falier-5b595131/
         icon: "fab fa-linkedin-in"
