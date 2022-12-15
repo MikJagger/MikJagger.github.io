@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Guidance"
         desc: "Advisory and guidance on trends and developments of security threats and controls"
-        icon: fa-solid fa-road #find more at https://fontawesome.com/icons
+        icon: fas fa-road #find more at https://fontawesome.com/icons #fas fa-shopping-cart
       - title: "Auditing"
         desc: "Determine maturity and effectiveness of IT-security controls and frameworks by auditing information technology"
-        icon: fa-solid fa-shield-check
+        icon: fas fa-shield-check
       - title: "Implementing"
         desc: "Implement controls to achieve higher security resilience"
-        icon: fa-sharp fa-solid fa-bullseye-arrow
+        icon: fas fa-bullseye-arrow
 
   portfolio:
     title: "Experience"
