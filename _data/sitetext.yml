@@ -78,11 +78,11 @@ en: &DEFAULT_EN
         align: right
     end: "The journey <br> continues!"
 
-  #about:
-  #  title: "About"
-   # text: "our story"
-  #  body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-   # section: about
+  about:
+   title: "About me"
+
+  body: "I am a highly skilled IT security professional with a passion for risk management. I am known for my expertise in this field, as well as my enthusiasm and dedication to achieving results. I am a trusted and reliable partner who is always goal-oriented and focused on delivering the best possible outcomes for my clients. I am excited to share more about my skills and experience!"
+   section: about
 
   clients:
     section: Happy clients
