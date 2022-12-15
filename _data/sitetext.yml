@@ -87,12 +87,12 @@ en: &DEFAULT_EN
   clients:
     section: Happy clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes"
     list:
-      - title: "envato"
+      - title: "Microsoft Cloud"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+      - title: "Amazon Cloud"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
