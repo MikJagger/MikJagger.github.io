@@ -110,17 +110,14 @@ en: &DEFAULT_EN
     people:
       - name: 
         image: assets/img/team/3.jpg
-     
       - name: "Mikkie van Falier"
         role: "Information Security Professional"
         image: assets/img/team/2.jpg
-    social:
-      - url: https://www.linkedin.com/in/mikkie-van-falier-5b595131/
-        icon: "fab fa-linkedin-in"
+        social:
+           - url: https://www.linkedin.com/in/mikkie-van-falier-5b595131/
+            icon: "fab fa-linkedin-in"
       - name: 
         image: assets/img/team/3.jpg
-    
-     
 
   contact:
     title: "Contact me"
