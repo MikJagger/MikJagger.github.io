@@ -1,15 +1,15 @@
 ---
 title: Working Experience
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: Job functions
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Work
-  subtitle: Illustration
+  subtitle: Job functions
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Job titles
+Job functions
 
 {:.list-inline}
 - Date: January 2017
