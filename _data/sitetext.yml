@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Information Security Officer / IT-security consultant"
         year: "2018-2023"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Guiding people on the development and implementation of information security programs by conducting security risk assessments and advising & supporting on implementing organizational & technical controls to mitigate identified information security risks"
         image: assets/img/timeline/1.jpg
         # you can enforce the alignment
         # align: right
@@ -83,7 +83,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/microsoft.jpg
       - title: "Rapid7"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/rapid.jpg
+        logo: assets/img/clients/rapid7.jpg
       - title: "Nessus"
         url:
         logo: assets/img/clients/nessus.jpg
@@ -108,9 +108,6 @@ en: &DEFAULT_EN
       - title: "Cisco"
         url: 
         logo: assets/img/clients/cisco.jpg
-      - title: "nessus"
-        url: 
-        logo: assets/img/clients/nessus.jpg
 
 
   team:
