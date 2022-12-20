@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: Projects
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
+  title: Projects
   subtitle: Branding
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
