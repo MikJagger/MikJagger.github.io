@@ -1,6 +1,6 @@
 ---
 title: Frameworks
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: 
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
