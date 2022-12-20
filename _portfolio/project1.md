@@ -1,12 +1,12 @@
 ---
 title: Working Experience
-subtitle: Job functions
+subtitle: 
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Work
-  subtitle: Job functions
+  subtitle: 
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Job functions
