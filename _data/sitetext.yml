@@ -115,10 +115,16 @@ en: &DEFAULT_EN
         role: "Information Security Professional"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com/mvanfalier
-            icon: fab fa-twitter
-          - url: https://www.linkedin.com/in/mikkie-van-falier-5b595131/
-            icon: fab fa-linkedin-in
+        - url: https://twitter.com/mvanfalier
+          icon: "fab fa-twitter"
+        - url: https://learn.microsoft.com/en-us/users/mikkievfalier-4212/transcript/d53zeuxejr8qkq4
+          icon: "fab fa-microsoft"
+        - url: https://www.linkedin.com/in/mikkie-van-falier-5b595131/
+          icon: "fab fa-linkedin-in"
+        - url: https://github.com/MikJagger
+          icon: "fab fa-github"
+        - url: https://tryhackme.com/p/MikJagger
+          icon: "fab fa-star"
       - name: 
         image: assets/img/team/3.jpg
     
