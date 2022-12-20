@@ -47,22 +47,22 @@ en: &DEFAULT_EN
       - title: "IT engineer"
         year: "2008-2012"
         desc: "Implementing, migrating and maintaining IT infrastructure solutions for clients related to VMware, Citrix and Microsoft products"
-        image: assets/img/timeline/itengineer.jpg
+        image: assets/img/timeline/4.jpg
         alt:
       - title: "IT consultant"
         year: "2013-2015"
         desc: "Designing IT infrastructure solutions by translating functional needs into technical solutions related to VMware, Citrix and Microsoft products"
-        image: assets/img/timeline/itconsult.jpg
+        image: assets/img/timeline/3.jpg
         alt:
       - title: "IT security engineer"
         year: "2016-2018"
         desc: "Designing and implementing technical IT security controls related to identity management, antimalware protection, e-mail security, privileged account management, server hardening and vulnerability scanning"
-        image: assets/img/timeline/secengineer.jpg
+        image: assets/img/timeline/2.jpg
         alt: image alt text
       - title: "Information Security Officer / IT-security consultant"
         year: "2018-2023"
         desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/secconsult.jpg
+        image: assets/img/timeline/1.jpg
         # you can enforce the alignment
         # align: right
     end: "The journey <br> continues!"
@@ -76,20 +76,42 @@ en: &DEFAULT_EN
   clients:
     section: Happy clients
     max-height: 100px
-    horizontal-scrolling: "no"
+    horizontal-scrolling: "yes"
     list:
       - title: "Microsoft Cloud"
+        url:
+        logo: assets/img/clients/microsoft.jpg
+      - title: "Rapid7"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "Amazon Cloud"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/rapid.jpg
+      - title: "Nessus"
+        url:
+        logo: assets/img/clients/nessus.jpg
+      - title: "SentinelOne"
+        url: 
+        logo: assets/img/clients/sentinel.jpg
+      - title: "Solarwinds"
+        url: 
+        logo: assets/img/clients/solarwinds.jpg
+      - title: "Trend Micro"
+        url: 
+        logo: assets/img/clients/trend.jpg
+      - title: "Thycotic"
+        url: 
+        logo: assets/img/clients/thycotic.jpg
+      - title: "OpenVAS"
+        url: 
+        logo: assets/img/clients/openvas.jpg
+      - title: "Sophos"
+        url: 
+        logo: assets/img/clients/sophos.jpg
+      - title: "Cisco"
+        url: 
+        logo: assets/img/clients/cisco.jpg
+      - title: "nessus"
+        url: 
+        logo: assets/img/clients/nessus.jpg
+
 
   team:
     title: "More about me"
