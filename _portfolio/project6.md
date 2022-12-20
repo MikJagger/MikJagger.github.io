@@ -1,6 +1,6 @@
 ---
 title: Responsible Disclosures
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: 
 image: assets/img/portfolio/06-full.jpg
 alt: 
 
