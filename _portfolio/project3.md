@@ -1,6 +1,6 @@
 ---
 title: Products
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: 
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
