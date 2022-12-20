@@ -46,23 +46,23 @@ en: &DEFAULT_EN
     events:
       - title: "IT engineer"
         year: "2008-2012"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        desc: "Implementing, migrating and maintaining IT infrastructure solutions for clients related to VMware, Citrix and Microsoft products"
+        image: assets/img/timeline/itengineer.jpg
         alt:
       - title: "IT consultant"
         year: "2013-2015"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        desc: "Designing IT infrastructure solutions by translating functional needs into technical solutions related to VMware, Citrix and Microsoft products"
+        image: assets/img/timeline/itconsult.jpg
         alt:
       - title: "IT security engineer"
         year: "2016-2018"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+        desc: "Designing and implementing technical IT security controls related to identity management, antimalware protection, e-mail security, privileged account management, server hardening and vulnerability scanning"
+        image: assets/img/timeline/secengineer.jpg
         alt: image alt text
       - title: "Information Security Officer / IT-security consultant"
         year: "2018-2023"
         desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/secconsult.jpg
         # you can enforce the alignment
         # align: right
     end: "The journey <br> continues!"
@@ -146,7 +146,7 @@ en: &DEFAULT_EN
       - url: https://github.com/MikJagger
         icon: "fab fa-github"
       - url: https://tryhackme.com/p/MikJagger
-        icon: "fab fa-flag-checkered"
+        icon: "fas fa-list"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
