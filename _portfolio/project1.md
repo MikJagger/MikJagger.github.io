@@ -12,7 +12,7 @@ caption:
 Job functions
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: WIP
+- Client: WIP
+- Category: WIP
 
