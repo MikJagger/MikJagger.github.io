@@ -124,7 +124,7 @@ en: &DEFAULT_EN
         - url: https://github.com/MikJagger
           icon: "fab fa-github"
         - url: https://tryhackme.com/p/MikJagger
-          icon: "fab fa-star"
+          icon: "fas fa-list"
       - name: 
         image: assets/img/team/3.jpg
     
