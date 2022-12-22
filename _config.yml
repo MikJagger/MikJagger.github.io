@@ -30,11 +30,13 @@ author     : Mikkie
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: G-HCLDPH0626 #Google Analytics tracking code here
+  google: G-HCLDPH0626 
+  #Google Analytics tracking code here
 
 collections:
   portfolio:
 
+include: [".well-known"]
 markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
