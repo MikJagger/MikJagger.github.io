@@ -1,5 +1,9 @@
 ---
 layout: page
+
+
+
+
 title: Privacy Policy
 ---
 <div class="col-lg-12 text-center">
@@ -36,10 +40,10 @@ We may update this privacy policy from time to time for personal, operational, l
 
 For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
-** PAGE IS SECURE **
+**THIS WEBSITE IS SECURE**
 
 Protected by:
 ![Cloudflare](/assets/img/cloudflare.jpg)
 
 Proof of security:
-![internet.nl](/assets/img/internettest.jpg)
+![internet.nl](https://internet.nl/halloffame)(/assets/img/internettest.jpg)
