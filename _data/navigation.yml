@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Blog"
-      url: https://webexample.nl
+    # - title: "Blog"
+    #  url: https://webexample.nl
 en-US:
   <<: *DEFAULT_EN
 en-CA:
