@@ -42,8 +42,6 @@ For more information about our privacy practices or if you have questions, pleas
 
 **THIS WEBSITE IS SECURE**
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-
 Protected by:
 ![Cloudflare](/assets/img/cloudflare.jpg)
 
