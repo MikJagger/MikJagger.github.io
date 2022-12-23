@@ -35,3 +35,11 @@ We may update this privacy policy from time to time for personal, operational, l
 **CONTACT US**
 
 For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+
+** PAGE IS SECURE **
+
+Protected by:
+![Cloudflare](/assets/img/cloudflare.jpg)
+
+Proof of security:
+![internet.nl](/assets/img/internettest.jpg)
