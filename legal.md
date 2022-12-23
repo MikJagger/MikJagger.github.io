@@ -46,4 +46,4 @@ Protected by:
 ![Cloudflare](/assets/img/cloudflare.jpg)
 
 Proof of security:
-![internet.nl](https://internet.nl/halloffame)(/assets/img/internettest.jpg)
+![https://internet.nl/halloffame](/assets/img/internettest.jpg)
