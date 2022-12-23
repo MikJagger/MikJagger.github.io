@@ -46,4 +46,4 @@ Protected by:
 ![Cloudflare](/assets/img/cloudflare.jpg)
 
 Proof of security:
-[![Internet](/assets/img/internettest.jpg)](https://internet.nl/halloffame/web/)
+[![Internet](/assets/img/internettest.jpg)](https://internet.nl/site/mikkievanfalier.nl/)
