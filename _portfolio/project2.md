@@ -16,6 +16,8 @@ caption:
 
 ### Certification badges
 
+{:.list-inline}
+
 **Date:** 2023
 
 **Title:** *<u>IN PROGRESS</u>* - ISO/IEC 27001 LEAD AUDITOR (PECB CERTIFIED)
