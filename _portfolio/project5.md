@@ -19,8 +19,8 @@ NEN7510: managing/auditing<br/>
 
 **Control Frameworks**<br/>
 CIS v7: implementing/managing/auditing<br/>
-CIS v8: implementing/managing/auditing</br>
-NTA7516: implementing/managing</br>
+CIS v8: implementing/managing/auditing<br/>
+NTA7516: implementing/managing<br/>
 
 **Risk Management Frameworks**<br/>
 ISO27005<br/>
