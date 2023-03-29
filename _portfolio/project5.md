@@ -9,7 +9,6 @@ caption:
   subtitle: 
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
- WIP
 
 {:.list-inline}
 
