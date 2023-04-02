@@ -14,7 +14,7 @@ caption:
 
 
 
- **Client:** Trading Investment organization<br/>
+- **Client:** Trading Investment organization<br/>
 - **Period:** 2022<br/>
 - **Category:** Security Auditing<br/>
 - **Summary:** The execution of an top-down IT-security audit program with the goal to measure IT-security resilience of multiple
@@ -22,7 +22,7 @@ subsidiaries and deliver both strategical and operational related IT-security im
 
 ------
 
- **Client:** Healthcare organization<br/>
+- **Client:** Healthcare organization<br/>
 - **Period:** 2022<br/>
 - **Category:** Risk Treatment Plan<br/>
 - **Summary:** The development and execution of an Risk Treatment Plan related to the mitigation of a large amount of high risk security vulnerabilities, the lack of antimalware protection, the hardening of OT systems and the design of an OT-systems back-up en restore process.<br/>
