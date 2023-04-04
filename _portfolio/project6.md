@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
 
-**List of Responsible Disclosures**
+**Overview of Responsible Disclosures**
 
 Identified, reported and confirmed security vulnerabilities within scope of the company’s responsible disclosure policies
 
