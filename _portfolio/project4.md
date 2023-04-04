@@ -9,7 +9,7 @@ caption:
   subtitle: Completed project examples
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
- WIP
+
 {:.list-inline}
 
 
