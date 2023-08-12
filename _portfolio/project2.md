@@ -23,7 +23,7 @@ caption:
 **Date:** 2023
 
 ------
-**Title:** <u>IN PROGRESS</u> - INE - Junior Penetration Tester v2 (eJPTv2)<br/>
+**Title:** - INE - Junior Penetration Tester v2 (eJPTv2)<br/>
 **Date:** 2023
 
 ------
