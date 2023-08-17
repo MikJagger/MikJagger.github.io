@@ -28,5 +28,8 @@ Identified, reported and confirmed security vulnerabilities within scope of the 
 
 *Gemeente Moerdijk* – 2021 – [Hall of Fame](https://www.moerdijk.nl/web/responsible-disclosure/Wall-of-Fame.html)
 
+*Fundaments* - 2022
+
+*Airmiles* - 2022
 
 
