@@ -139,19 +139,16 @@ en: &DEFAULT_EN
      
 
   contact:
-    title: "Contact me"
-    text: ""
+    title: "Contact Us"
+    point:
+      - text: "Book online appointment"
+        link: "https://mikkievanfalier.nl"
+        icon: fas fa-laptop
+      - text: "info@mikkievanfalier.nl"
+        icon: fas fa-envelope
+      - text: "Direct chat"
+        link: "https://mikkievanfalier.nl"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
