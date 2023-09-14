@@ -20,7 +20,7 @@ url    : "https://mikjagger.github.io" # the base hostname & protocol for your s
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : mikkievanfalier.nl
-email      : public@mikkievanfalier.nl #this is also the email contact forms will go to
+#email      : public@mikkievanfalier.nl #this is also the email contact forms will go to
 description: "Personal page"
 author     : Mikkie
 # logo:     #optional, defaults to site title
