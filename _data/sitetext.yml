@@ -139,7 +139,7 @@ en: &DEFAULT_EN
      
 
   contact:
-    title: "Contact Us"
+    title: "Contact Me"
     point:
       - text: "Book online appointment"
         link: "https://outlook.office365.com/owa/calendar/PersonalwebsitebookingCopy@mikkievanfalier.nl/bookings/"
