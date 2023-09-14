@@ -142,12 +142,12 @@ en: &DEFAULT_EN
     title: "Contact Us"
     point:
       - text: "Book online appointment"
-        link: "https://mikkievanfalier.nl"
+        link: "https://outlook.office365.com/owa/calendar/Personalwebsitebooking@mikkievanfalier.nl/bookings/"
         icon: fas fa-laptop
       - text: "info@mikkievanfalier.nl"
         icon: fas fa-envelope
       - text: "Direct chat"
-        link: "https://mikkievanfalier.nl"
+        link: "https://teams.microsoft.com/l/chat/0/0?users=info@mikkievanfalier.nl"
     section: contact
 
   footer:
