@@ -43,7 +43,7 @@ markdown: kramdown
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 
 #added formspree
-formspree_form_path: "f/mayzwpgw"
+formspree_form_path: "f/xnqkzppn"
 
 plugins:
   - jekyll-remote-theme
